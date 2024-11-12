@@ -1,0 +1,13 @@
+a {
+  color: rgb(112, 174, 218);
+  font-size: 100%;
+  font-style: oblique;
+}
+h2 {
+  color: brown;
+  font-style: italic;
+}
+p {
+  color: rgb(87, 175, 42);
+  font-weight: bolder;
+}
